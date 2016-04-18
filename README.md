@@ -10,5 +10,5 @@ My current goals for this bot include
   * Save/Record commands to store voice clips for later use
 
 Thanks to:
-  bwmarrin for the discordgo and dgvoice libraries (which allow this bot to even exist)
-  bobziuchkovski for the writ library (which helped immensely in making readable docs)
+  * bwmarrin for the discordgo and dgvoice libraries (which allow this bot to even exist)
+  * bobziuchkovski for the writ library (which helped immensely in making readable docs)
